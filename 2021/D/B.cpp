@@ -100,6 +100,6 @@ signed main() {
     }
 }     
 //Expln : https://www.youtube.com/watch?v=5nIrcOZETxI&ab_channel=KaranMashru
-// Similar Question
+// Similar Question 
 // https://atcoder.jp/contests/abc188/tasks/abc188_d
        
